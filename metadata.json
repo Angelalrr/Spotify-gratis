@@ -1,0 +1,6 @@
+{
+  "name": "yt-mp3",
+  "description": "YouTube to 320kbps MP3 audio converter with live progress tracking",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
